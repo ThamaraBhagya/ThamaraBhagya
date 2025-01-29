@@ -1,5 +1,5 @@
 - <h1>👋 Hi, I’m @ThamaraBhagya</h1>
-- 🌱 I’m currently learning full stack developing 
+- 🌱 I’m currently learning full stack developing , machine learning
  
 
 <!---
