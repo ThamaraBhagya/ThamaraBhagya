@@ -31,26 +31,33 @@
 
 ## 🚀 Featured Projects (AI / Data → SE)
 
-- **[Data Copilot (AI Data Analyst)](https://github.com/ThamaraBhagya/Data-Copilot)** — Query CSV datasets through natural-language chat. Uses **LangChain + Groq (LLaMA 3)** to generate Python analysis code, **auto-fixes execution errors**, and runs safely inside a **RestrictedPython sandbox** to produce real-time charts and tabular insights.  
+- **[Data Copilot (AI Data Analyst)](https://github.com/ThamaraBhagya/Data-Copilot)**  
+  Query CSV datasets through natural-language chat. Uses **LangChain + Groq (LLaMA 3)** to generate Python analysis code, auto-fixes execution errors, and runs inside a restricted sandbox to produce real-time charts and insights.  
   *(LLMs, LangChain, Groq, Python, Data Analysis, Secure Execution)*
 
-- **[AI Sales Forecasting Application](https://github.com/ThamaraBhagya/AI-Sales_Forecasting_Application)** — End-to-end retail sales forecasting system with a **feature engineering + training pipeline (XGBoost, LightGBM)**, a **FastAPI** inference/analytics backend, and a **Next.js** dashboard for KPI tracking, model insights, and **what-if simulation**.  
+- **[AI Sales Forecasting Application](https://github.com/ThamaraBhagya/AI-Sales_Forecasting_Application)**  
+  End-to-end retail sales forecasting system with feature engineering and ML pipelines using **XGBoost and LightGBM**, a **FastAPI backend**, and a **Next.js dashboard** for KPI tracking and what-if analysis.  
   *(Forecasting, XGBoost, LightGBM, FastAPI, Next.js, Analytics)*
 
-- **[EduFlow (LMS + Attrition Prediction)](https://github.com/ThamaraBhagya/lms)** — Learning Management System with a focus on analytics/ML use cases (e.g., student attrition prediction).  
-  *(FastAPI/Next.js-style full stack, ML integration)*
+- **[EduFlow (LMS + Attrition Prediction)](https://github.com/ThamaraBhagya/lms)**  
+  Learning Management System enhanced with ML-driven analytics, including student attrition prediction integrated into a full-stack LMS platform.  
+  *(FastAPI / Next.js, ML Integration, Full Stack System)*
 
-- **[GiveSpark](https://github.com/ThamaraBhagya/givespark)** — Full-stack crowdfunding platform (production-style web app).  
-  Live: https://givespark.vercel.app  
-  *(Next.js, Prisma)*
+- **[Research Pro AI – Autonomous Cognitive Swarm](https://github.com/ThamaraBhagya/AI-research-agent.git)**   
+  An autonomous multi-agent research architecture built with **CrewAI and Gemini 2.5 Flash**, combining **vector memory (Qdrant)** and **knowledge graphs (Neo4j)** for deep research synthesis. Includes a reflection-driven agent loop that decides when to trigger web search, Cypher-based relationship extraction, and structured JSON reporting. Backend is built with **FastAPI**, with a **Next.js frontend featuring interactive 3D knowledge graph visualizations**.  
+  *(Python, FastAPI, CrewAI, Gemini 2.5 Flash, Neo4j, Qdrant, Next.js, Docker)*
 
-- **[Bingsu Shop (Web)](https://github.com/ThamaraBhagya/Bingsu-Shop)** — Food ordering system with admin dashboard.  
-  Live: https://bingsu-shop-sand.vercel.app  
-  *(Next.js, TypeScript)*
+- **[My Portfolio – RAG Chat Assistant](https://thamarabhagya.vercel.app/)**   
+  A personal portfolio website integrated with a **RAG-based AI assistant** that answers questions about projects, skills, and background. Uses **Pinecone vector search**, **Hugging Face embeddings**, and **Groq LLM inference** to deliver grounded, context-aware responses.  
+  *(React, TypeScript, Tailwind CSS, shadcn/ui, Pinecone, Groq, Hugging Face)*
 
-- **[Bingsu Shop (Mobile App)](https://github.com/ThamaraBhagya/Bingsu-Shop-MobileApp)** — Mobile client for the Bingsu Shop system.  
-  *(React Native, TypeScript)*
+- **[StackWarehouse – Power BI Dashboard | Flask Web App**](https://github.com/ThamaraBhagya/StackWarehouse.git)**   
+  End-to-end analytics platform that converts Stack Overflow survey data into a compensation intelligence system. Includes ETL pipeline into **SQLite warehouse**, ML-based salary prediction, and dashboards powered by **Power BI + Flask + FastAPI APIs**.  
+  *(Python, FastAPI, Flask, scikit-learn, SQLite, Power BI, Docker)*
 
+- **[HR Data Pipeline – AWS S3 | Snowflake | Power BI](https://github.com/ThamaraBhagya/EnterpriseHR-Data-Pipeline-Snowflake.git)**  
+  A data engineering and ML pipeline for employee attrition prediction using **AWS S3 ingestion**, **Snowflake Medallion architecture**, and ML models (Random Forest, SMOTE, K-Means, PCA). Outputs are operationalized into Snowflake and visualized in **Power BI dashboards**.  
+  *(AWS, Snowflake, Python, scikit-learn, Power BI, Data Engineering, ML)*
 ---
 
 ## 📊 GitHub Stats
