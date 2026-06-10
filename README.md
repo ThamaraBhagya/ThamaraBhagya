@@ -51,7 +51,7 @@
   A personal portfolio website integrated with a **RAG-based AI assistant** that answers questions about projects, skills, and background. Uses **Pinecone vector search**, **Hugging Face embeddings**, and **Groq LLM inference** to deliver grounded, context-aware responses.  
   *(React, TypeScript, Tailwind CSS, shadcn/ui, Pinecone, Groq, Hugging Face)*
 
-- **[StackWarehouse – Power BI Dashboard | Flask Web App**](https://github.com/ThamaraBhagya/StackWarehouse.git)**   
+- **[StackWarehouse – Power BI Dashboard | Flask Web App](https://github.com/ThamaraBhagya/StackWarehouse.git)**   
   End-to-end analytics platform that converts Stack Overflow survey data into a compensation intelligence system. Includes ETL pipeline into **SQLite warehouse**, ML-based salary prediction, and dashboards powered by **Power BI + Flask + FastAPI APIs**.  
   *(Python, FastAPI, Flask, scikit-learn, SQLite, Power BI, Docker)*
 
