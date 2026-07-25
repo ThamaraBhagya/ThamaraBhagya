@@ -1,33 +1,50 @@
-<h1 align="center">Hi 👋, I'm Thamara Bhagya</h1>
-<h3 align="center">Data Science Undergraduate & Full-Stack AI Engineer from Sri Lanka 🇱🇰</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thamarabhagya&label=Profile%20views&color=0e75b6&style=flat" alt="thamarabhagya" />
-</p>
+<div align="center">
+  <h1>👨‍💻 Thamara Bhagya</h1>
+  <h3>Computer Science Undergraduate | Aspiring Data Engineer | Data Science Enthusiast | AI/ML Builder</h3>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+> **Bridging the gap between scalable data infrastructure and seamless user experiences.**
 
-- 🎓 Undergraduate at the **Faculty of Computing and Technology, University of Kelaniya**
-- 🚀 Passionate about **Full-Stack AI Engineering** — bridging predictive modeling with production-ready apps
-- 🌱 Currently learning: **Generative AI (RAG, LLMs), Data Engineering, FastAPI, and Next.js**
-- 💼 Actively seeking a **Data Science / AI internship** to solve real-world problems
-- 📫 Contact: **[thamarabhagya755@gmail.com](mailto:thamarabhagya755@gmail.com)**
-  
+**🚀 Current Status** : BSc. (Hons) in Computer Science, specializing in Data Science , University of Kelaniya
 
+I'm a Computer Science undergrad from Sri Lanka focusing in **AI-Applied Full-Stack Development** and **Data Engineering**. I am passionate about the entire lifecycle of an intelligent application from extracting and modeling data in the cloud to deploying robust APIs and interactive frontends. 
 
----
+Currently, I am actively **seeking an internship where I can contribute to building reliable, data-driven software solutions**
 
-## 🛠️ Tech Stack & Tools
+### ⚡ What I'm currently focused on:
+- 🏗️ **Data Engineering:** Architecting scalable data warehouses/ ETL / Star Schemas and automated CI/CD data pipelines.
+- 🧠 **AI Integration:** Embedding intelligent features (LLMs, predictive modeling) into modern applications.
+- 💻 **Full-Stack Development:** Writing clean, maintainable code across React/Next.js frontends and FastAPI/Spring Boot backends.
 
-- **AI / ML:** Scikit-learn, XGBoost, TensorFlow, LangChain, Hugging Face, NLP, Groq API  
-- **Frontend:** Next.js, TypeScript, React, React Native  
-- **Backend / Data:** FastAPI, Flask, Streamlit, PostgreSQL (Neon), SQLite, Pinecone, WebSockets, Microservices  
-- **Cloud / MLOps:** AWS (Cloud Quest Certified), Docker, GitHub Actions (CI/CD), MLflow  
+### ⚙️ Tech Stack & Tools
 
----
+**💻 Programming Languages  :**
+`Python` `Java` `SQL` `JavaScript` `TypeScript`
 
+**🏗️ Data Engineering  :**
+`PySpark` `Databricks` `Power BI` `Snowflake` `ETL Pipelines` `Data Warehousing`
+
+**🧠 AI/ML  :**
+`PyTorch` `Scikit-learn` `Hugging Face` `LangChain` `Pandas` `NumPy` `MLflow` `Jupyter Notebook` 
+
+**🌐 Backend  :**
+`FastAPI` `Spring Boot` `Node.js` `Express.js` 
+
+**🎨 Frontend  :**
+`Next.js` `React.js` `React Native` 
+
+**🗄️ Databases  :**
+`PostgreSQL` `MySQL` `SQL Server` `MongoDB` `Redis` `Pinecone` `Prisma ORM` `ChromaDB`
+
+**☁️ Cloud & DevOps  :**
+`AWS` `Azure` `Docker` `GitHub Actions` `CI/CD` `Git`
+
+**🛠️ Tools  :**
+`VS Code` `IntelliJ IDEA` `Visual Studio` `Postman`
+
+💬 **Ask me about:** End-to-end data pipelines, modern web architecture, or how to seamlessly plug AI into a full-stack ecosystem!
 
 ## 🚀 Featured Projects (AI / Data → SE)
 
@@ -59,6 +76,10 @@
   A data engineering and ML pipeline for employee attrition prediction using **AWS S3 ingestion**, **Snowflake Medallion architecture**, and ML models (Random Forest, SMOTE, K-Means, PCA). Outputs are operationalized into Snowflake and visualized in **Power BI dashboards**.  
   *(AWS, Snowflake, Python, scikit-learn, Power BI, Data Engineering, ML)*
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thamarabhagya&label=Profile%20views&color=0e75b6&style=flat" alt="thamarabhagya" />
+</p>
 
 ## 📊 GitHub Stats
 
