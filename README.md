@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thamara%20Bhagya&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Undergraduate%20%7C%20Software%20Developer&descSize=16&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:08203E,100:557C93&height=180&section=header&text=Thamara%20Bhagya&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Undergraduate%20%7C%20Software%20Developer&descSize=16&descAlignY=68" width="100%"/>
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
