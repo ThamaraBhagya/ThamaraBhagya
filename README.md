@@ -17,7 +17,7 @@ I'm a Computer Science undergrad from Sri Lanka focusing in **AI-Applied Full-St
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thamarabhagya&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" alt="Thamara's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thamarabhagya&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" alt=" " />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamarabhagya&theme=transparent&hide_border=true&title_color=0e75b6" alt="Thamara's GitHub streak" />
 </p>
 
